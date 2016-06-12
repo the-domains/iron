@@ -1,19 +1,4 @@
-name: iron
-favicon: null
-layout_spectrum: 0.8186093263793737
 typography_spectrum: 0.693366025108844
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -25,4 +10,19 @@ color:
   lightness: 0.2757546789944172
   saturation: 0.7567476574331522
   rhythmicContrast: 0.17711646272800863
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8186093263793737
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: iron
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
